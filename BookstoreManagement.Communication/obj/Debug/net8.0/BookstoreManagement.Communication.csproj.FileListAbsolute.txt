@@ -1,0 +1,11 @@
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Communication\bin\Debug\net8.0\BookstoreManagement.Communication.deps.json
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Communication\bin\Debug\net8.0\BookstoreManagement.Communication.dll
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Communication\bin\Debug\net8.0\BookstoreManagement.Communication.pdb
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Communication\obj\Debug\net8.0\BookstoreManagement.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Communication\obj\Debug\net8.0\BookstoreManagement.Communication.AssemblyInfoInputs.cache
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Communication\obj\Debug\net8.0\BookstoreManagement.Communication.AssemblyInfo.cs
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Communication\obj\Debug\net8.0\BookstoreManagement.Communication.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Communication\obj\Debug\net8.0\BookstoreManagement.Communication.dll
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Communication\obj\Debug\net8.0\refint\BookstoreManagement.Communication.dll
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Communication\obj\Debug\net8.0\BookstoreManagement.Communication.pdb
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Communication\obj\Debug\net8.0\ref\BookstoreManagement.Communication.dll
