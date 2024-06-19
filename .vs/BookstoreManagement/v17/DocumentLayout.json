@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\BookstoreManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE6B1592-A496-428E-BB51-CEA9B1FEA856}|BookstoreManagement.API\\BookstoreManagement.API.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\bookstoremanagement\\bookstoremanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE6B1592-A496-428E-BB51-CEA9B1FEA856}|BookstoreManagement.API\\BookstoreManagement.API.csproj|solutionrelative:bookstoremanagement.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE6B1592-A496-428E-BB51-CEA9B1FEA856}|BookstoreManagement.API\\BookstoreManagement.API.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\bookstoremanagement\\bookstoremanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE6B1592-A496-428E-BB51-CEA9B1FEA856}|BookstoreManagement.API\\BookstoreManagement.API.csproj|solutionrelative:bookstoremanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\BookstoreManagement\\BookstoreManagement.API\\Program.cs",
               "RelativeDocumentMoniker": "BookstoreManagement.API\\Program.cs",
@@ -38,19 +34,7 @@
               "RelativeToolTip": "BookstoreManagement.API\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T02:51:32.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\BookstoreManagement\\BookstoreManagement.API\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "BookstoreManagement.API\\Controllers\\BooksController.cs",
-              "ToolTip": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\BookstoreManagement\\BookstoreManagement.API\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "BookstoreManagement.API\\Controllers\\BooksController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T22:53:31.747Z",
+              "WhenOpened": "2024-06-19T02:51:32.422Z",
               "EditorCaption": ""
             }
           ]
