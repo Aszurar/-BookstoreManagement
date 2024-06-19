@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BookstoreManagement.Application/1.0.0": {
+        "dependencies": {
+          "BookstoreManagement.Communication": "1.0.0"
+        },
+        "runtime": {
+          "BookstoreManagement.Application.dll": {}
+        }
+      },
+      "BookstoreManagement.Communication/1.0.0": {
+        "runtime": {
+          "BookstoreManagement.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookstoreManagement.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookstoreManagement.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

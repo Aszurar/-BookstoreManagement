@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BookstoreManagement.Application")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BookstoreManagement.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1969135a976ef0957008b1d959a68a92fccbdc44")]
-[assembly: System.Reflection.AssemblyProductAttribute("BookstoreManagement.Application")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BookstoreManagement.Application")]
+[assembly: System.Reflection.AssemblyProductAttribute("BookstoreManagement.API")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BookstoreManagement.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

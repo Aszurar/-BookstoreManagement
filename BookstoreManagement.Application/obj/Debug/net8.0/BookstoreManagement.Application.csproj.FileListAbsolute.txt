@@ -1,0 +1,15 @@
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\bin\Debug\net8.0\BookstoreManagement.Application.deps.json
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\bin\Debug\net8.0\BookstoreManagement.Application.dll
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\bin\Debug\net8.0\BookstoreManagement.Application.pdb
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\bin\Debug\net8.0\BookstoreManagement.Communication.dll
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\bin\Debug\net8.0\BookstoreManagement.Communication.pdb
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\obj\Debug\net8.0\BookstoreManagement.Application.csproj.AssemblyReference.cache
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\obj\Debug\net8.0\BookstoreManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\obj\Debug\net8.0\BookstoreManagement.Application.AssemblyInfoInputs.cache
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\obj\Debug\net8.0\BookstoreManagement.Application.AssemblyInfo.cs
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\obj\Debug\net8.0\BookstoreManagement.Application.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\obj\Debug\net8.0\Bookstor.D1EAB591.Up2Date
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\obj\Debug\net8.0\BookstoreManagement.Application.dll
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\obj\Debug\net8.0\refint\BookstoreManagement.Application.dll
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\obj\Debug\net8.0\BookstoreManagement.Application.pdb
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.Application\obj\Debug\net8.0\ref\BookstoreManagement.Application.dll
