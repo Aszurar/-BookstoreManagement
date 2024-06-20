@@ -34,3 +34,4 @@ E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement
 E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.API\obj\Debug\net8.0\BookstoreManagement.API.pdb
 E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.API\obj\Debug\net8.0\BookstoreManagement.API.genruntimeconfig.cache
 E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.API\obj\Debug\net8.0\ref\BookstoreManagement.API.dll
+E:\Desenvolvimento\backend\dotnet\estudo\BookstoreManagement\BookstoreManagement.API\obj\Debug\net8.0\BookstoreManagement.API.sourcelink.json
